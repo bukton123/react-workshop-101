@@ -31,4 +31,4 @@ npm start or yarn start
 ```
 
 ## example: http://localhost:3000
-![Alternative text](open.png "Optional title")
+![Alternative text](https://github.com/bukton123/react-workshop-101/blob/master/00-installation/open.PNG "")
