@@ -6,7 +6,7 @@ Reactjs training for friend
 
 # Content
 * [Installation](https://github.com/bukton123/react-workshop-101/tree/master/00-installation)
-* [Webpack and React-create-app]()
+* [Webpack vs Create-react-app]()
 * [React Component]()
 * [State and Props]()
 * [Class/Function and Event]()
