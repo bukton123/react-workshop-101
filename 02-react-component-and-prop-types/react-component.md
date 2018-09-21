@@ -109,8 +109,9 @@ export default PropsTypeComponent
 ```
 
 * error prop-types
-![error](https://github.com/bukton123/react-workshop-101/blob/master/02-react-component/error.PNG "")
+
+![error](https://raw.githubusercontent.com/bukton123/react-workshop-101/master/02-react-component-and-prop-types/error.PNG "")
 
 
 ## Example
-![component](https://github.com/bukton123/react-workshop-101/blob/master/02-react-component/component.PNG "")
+![component](https://raw.githubusercontent.com/bukton123/react-workshop-101/master/02-react-component-and-prop-types/component.PNG "")
