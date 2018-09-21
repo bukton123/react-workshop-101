@@ -4,6 +4,8 @@ import './App.css';
 
 import Stateful from './Stateful'
 import Stateless from './Stateless'
+import DefaultProps from './DefaultProps'
+import PropsTypeComponent from './PropsType'
 
 class App extends Component {
   render() {
@@ -19,6 +21,8 @@ class App extends Component {
         <div style={{ textAlign: 'center', width: '100%' }}>
           <Stateful />
           <Stateless />
+          <DefaultProps />
+          <PropsTypeComponent />
         </div>
       </div>
     );
