@@ -1,7 +1,7 @@
 # React component liftcycle
 
 ## Liftcycle flow
-![Liftcycle](https://raw.githubusercontent.com/bukton123/react-workshop-101/master/05-react-component-liftcycle/lift.PNG)
+![Liftcycle](https://raw.githubusercontent.com/bukton123/react-workshop-101/master/05-react-component-liftcycle/lift.png "")
 
 image @https://hackernoon.com/reactjs-component-lifecycle-methods-a-deep-dive-38275d9d13c0
 
