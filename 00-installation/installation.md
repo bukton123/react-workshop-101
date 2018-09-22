@@ -8,6 +8,9 @@
 > * React Redux ES6 Snippets
 > * React-Native/React/Redux snippets for es6/es7
 * [Online IDE](https://stackblitz.com/)
+* [Chrome extension](https://chrome.google.com/webstore/category/extensions?utm_source=chrome-ntp-icon)
+> * React Developer Tools
+> * Redux DevTools
 
 ***
 ## setup
