@@ -11,7 +11,7 @@ Reactjs training for friend
 * [State and Props](https://github.com/bukton123/react-workshop-101/blob/master/03-state-and-props/state-and-props.md)
 * [Class/Function and Event](https://github.com/bukton123/react-workshop-101/blob/master/04-class-function-and-event/class-function-and-event.md)
 * [React Component Lifecycle](https://github.com/bukton123/react-workshop-101/blob/master/05-react-component-liftcycle/react-component-liftcycle.md)
-* [Axios http request]()
+* [Axios http request](https://github.com/bukton123/react-workshop-101/blob/master/06-axios-http-request/axios-http-request.md)
 * [React-router-v4]()
 * [React-redux]()
 * [React-mobx]()
