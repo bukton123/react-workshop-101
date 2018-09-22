@@ -10,7 +10,7 @@ Reactjs training for friend
 * [React Component and Prop-types](https://github.com/bukton123/react-workshop-101/blob/master/02-react-component-and-prop-types/react-component.md)
 * [State and Props](https://github.com/bukton123/react-workshop-101/blob/master/03-state-and-props/state-and-props.md)
 * [Class/Function and Event](https://github.com/bukton123/react-workshop-101/blob/master/04-class-function-and-event/class-function-and-event.md)
-* [React Component Lifecycle]()
+* [React Component Lifecycle](https://github.com/bukton123/react-workshop-101/blob/master/05-react-component-liftcycle/react-component-liftcycle.md)
 * [Axios http request]()
 * [React-router-v4]()
 * [React-redux]()
